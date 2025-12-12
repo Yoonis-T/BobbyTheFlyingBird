@@ -23,12 +23,6 @@ Particle systems are used to enhance visuals (e.g., flap effects, score effects,
 
 Start button to begin the game.
 
-Instructions or quick tips on how to play.
-
-High score display (if implemented).
-
-Exit/Quit option for desktop builds.
-
 
 
 https://github.com/user-attachments/assets/cbd267c1-2e0e-4da9-86f2-35dd80b79e98
